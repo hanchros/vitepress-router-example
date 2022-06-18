@@ -1,0 +1,17 @@
+{
+  "name": "vitepress-router-example",
+  "scripts": {
+    "start": "vitepress --host --open",
+    "build": "vitepress build --debug"
+  },
+  "dependencies": {
+    "typescript": "4.7.4",
+    "vite": "2.9.12",
+    "vitepress": "1.0.0-alpha.2",
+    "vue": "3.2.37"
+  },
+  "devDependencies": {
+    "@types/node": "18.0.0",
+    "@vue/tsconfig": "0.1.3"
+  }
+}

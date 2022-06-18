@@ -1,0 +1,13 @@
+# Node.js
+node_modules
+
+# Editor
+.vscode/
+.vim/
+
+# Production
+.vitepress/dist/
+
+# Misc
+.DS_Store
+.tool-versions
